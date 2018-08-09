@@ -31,6 +31,7 @@ class Pen_Object{
 		System.out.println("Here Object is pen and its Color and Price are "+p1.color+","+p1.price+"respectively");
 		p1.behaviour();
 		q1.behaviour();
+		System.out.println("For Testing");
 	}
 	
 	
